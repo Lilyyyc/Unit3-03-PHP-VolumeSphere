@@ -1,0 +1,41 @@
+/* Created by: Lily C
+* Created on: 03/29/2023
+* This CSS file defines the style for index.html
+* Unit3-01-PHP-AreaTrapezoid
+*/
+
+body {
+  background-color: honeydew;
+  width: 80%;
+  margin-left: 10%;
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+
+h1 {
+  text-align: center;
+  background-color: #25a18e;
+  color: #fff;
+  padding: 20px;
+  font-family: "Arial Narrow", Arial, sans-serif;
+}
+
+p {
+  font-family: Arial, sans-serif;
+  color: #25a18e;
+}
+
+h3 {
+  font-family: Arial, sans-serif;
+  color: #004e64;
+  padding: 20px;
+}
+
+form {
+  font-family: Arial, sans-serif;
+  color: #000;
+  padding: 20px;
+}
+
+#result {
+}
